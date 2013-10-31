@@ -1,0 +1,23 @@
+{
+  "name": "zucchini-ti",
+  "version": "0.0.0",
+  "description": "Titanium mobile Apps UI testing with Zucchini",
+  "scripts": {
+    "test": "zucchini run features"
+  },
+  "keywords": [
+    "titanium mobile",
+    "ios",
+    "test",
+    "zucchini"
+  ],
+  "author": "astronaughts",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-coffeelint": "0.0.7",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-scandium": "~0.3.0"
+  }
+}

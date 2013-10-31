@@ -1,0 +1,15 @@
+Start on the "Tab1" screen:
+    Show Tab1 Window Elements
+    Take a screenshot named "Tab 1: before input"
+    Type "No Zucchini, No Develop." in the "Text" field
+    Blur
+    Take a screenshot named "Tab 1: after input"
+    Tap "Tab 2"
+
+Then on the "Tab2" screen:
+    Show Tab2 Window Elements
+    Take a screenshot named "Tab 2: moved to Tab 2"
+    Tap "Button"
+    Take a screenshot named "Tab 2: show alert"
+    Tap Alert OK
+    Take a screenshot named "Tab 2: close alert"

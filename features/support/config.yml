@@ -1,0 +1,12 @@
+# app: MyApp.app
+app: ./build/iphone/build/Debug-iphonesimulator/zucchini-ti.app
+
+devices:
+  iPhone Simulator iOS6:
+    default: true
+    simulator: iPhone (Retina 3.5-inch)
+    screen: retina_ios6
+
+  iPhone Simulator iOS7:
+    simulator: iPhone (Retina 3.5-inch)
+    screen: retina_ios7
